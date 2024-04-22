@@ -1,7 +1,5 @@
 # Lab-Natty-Or-Not
 
-# Avatar Otoniel 
-
 ## 📒 Descrição
 Um Avatar meu criado através do WhatsApp falando um pequeno texto.
 
@@ -28,4 +26,6 @@ Um Avatar meu criado através do WhatsApp falando um pequeno texto.
     <img src="assets/steps/video/etapa2.png">
 
 ## 🚀 Resultados (Clique na imagem para ver o video)
-[<img src="assets/resultado/avatar.jpg" width="300px">](https://youtube.com/shorts/0hCIZYsnXO0?si=M9WAzZbVzG9iGQSh)
+<a href="https://youtube.com/shorts/0hCIZYsnXO0?si=M9WAzZbVzG9iGQSh" target="_blank">
+    <img src="assets/resultado/avatar.jpg" width="300px">
+</a>
